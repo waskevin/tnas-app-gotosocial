@@ -1,0 +1,12 @@
+{
+  "name": "GoToSocial",
+  "source": "https://docs.gotosocial.org/en/latest/",
+  "docker_image": "superseriousbusiness/gotosocial:snapshot",
+  "version": "snapshot",
+  "repository": "https://github.com/waskevin/tnas-app-gotosocial",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "submission_status": "not_submitted"
+}

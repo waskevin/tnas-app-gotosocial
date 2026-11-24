@@ -1,0 +1,6 @@
+services:
+  gotosocial:
+    image: superseriousbusiness/gotosocial:snapshot
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
